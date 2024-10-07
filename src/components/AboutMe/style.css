@@ -19,10 +19,6 @@
     z-index: 13;
 }
 
-#image:hover {
-    opacity: 70%;
-}
-
 #bio {
     display: block;
     color: white;

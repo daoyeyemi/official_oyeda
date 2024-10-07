@@ -17,9 +17,6 @@
     color: yellow;
     font-size: 230px;
 }
-#drunklee:hover {
-    opacity: 70%;
-}
 
 .drunklee figure img {
     transform: scale(1);
