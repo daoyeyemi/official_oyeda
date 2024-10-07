@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/official_oyeda/static/css/main.701041d4.css",
-    "main.js": "/official_oyeda/static/js/main.89c1bc10.js",
+    "main.css": "/official_oyeda/static/css/main.863e1ea1.css",
+    "main.js": "/official_oyeda/static/js/main.b454fd89.js",
     "static/js/453.febbe0ae.chunk.js": "/official_oyeda/static/js/453.febbe0ae.chunk.js",
     "static/media/oyedaEcom.png": "/official_oyeda/static/media/oyedaEcom.aec4b8d6c30cef3a85d2.png",
     "static/media/ers_screenshot.png": "/official_oyeda/static/media/ers_screenshot.cf50bda4c5f13a6c3989.png",
@@ -9,12 +9,12 @@
     "static/media/IMG_8144.JPG": "/official_oyeda/static/media/IMG_8144.f9e5c007a0e4e2a91486.JPG",
     "static/media/black&gray.jpeg": "/official_oyeda/static/media/black&gray.7a007cf781ba22ac7011.jpeg",
     "index.html": "/official_oyeda/index.html",
-    "main.701041d4.css.map": "/official_oyeda/static/css/main.701041d4.css.map",
-    "main.89c1bc10.js.map": "/official_oyeda/static/js/main.89c1bc10.js.map",
+    "main.863e1ea1.css.map": "/official_oyeda/static/css/main.863e1ea1.css.map",
+    "main.b454fd89.js.map": "/official_oyeda/static/js/main.b454fd89.js.map",
     "453.febbe0ae.chunk.js.map": "/official_oyeda/static/js/453.febbe0ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.701041d4.css",
-    "static/js/main.89c1bc10.js"
+    "static/css/main.863e1ea1.css",
+    "static/js/main.b454fd89.js"
   ]
 }
