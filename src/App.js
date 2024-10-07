@@ -105,10 +105,10 @@ function App() {
               "events": {
                   "onhover": {
                       "enable": true,
-                      "mode": ["grab"]
+                      "mode": "push"
                   },
                   "onclick": {
-                      "enable": false,
+                      "enable": true,
                       "mode": "push"
                   },
                   "resize": true
