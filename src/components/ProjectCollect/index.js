@@ -1,6 +1,7 @@
 import "./style.css";
 
 import React from "react";
+import instruction_manual from "../../../src/ers_installation_manual.docx"
 import logo1 from "../Main/github.png";
 import logo2 from "../Main/linkedin.png";
 import oyedaEcom from "../ProjectCollect/oyedaEcom.png";
@@ -22,9 +23,20 @@ function ProjectCollect() {
                             <p className="card-text">An advanced artificial intelligence-based application able to identify and analyze human emotions in real-time using video footage. 
                                 Utilizes machine learning and computer vision with the help of Tensorflow for training of convolutional neural network model. Stores emotion history and 
                                 allows users to track trends over time. Performs regression analysis based on user history data to predict emotions of users at certain times.
-                                Made possible through use of Python programming language and PyQt5 framework. Download project by clicking above thumbnail that will send user to project download link <i>ers_installation_manual.docx</i> in <strong>ers_pyqt</strong> folder.
-                                For macOS users only.
+                                Made possible through use of Python programming language and PyQt5 framework. 
                             </p>
+                            <p id="download-disclaimer" className="card-text">
+                                <strong>
+                                    *** 
+                                    Click below download icon to access instruction manual. 
+                                    Use <i>ers_installation_manual.docx</i> to guide you through installation process.
+                                    For macOS users only. 
+                                    ***
+                                </strong>
+                            </p>
+                            <a href={instruction_manual} download="ers_installation_manual.docx">
+                                <i class="fa fa-download download-icon"></i>
+                            </a>
                             <p className="card-text"><small className="text-muted">September 26, 2024 </small></p>
                         </div>
                     </div>
